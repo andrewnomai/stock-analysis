@@ -8,6 +8,7 @@ As the data shows, a majority of the stocks have performed well in the year 2017
 ![Stock Performance 2017](https://user-images.githubusercontent.com/107603065/175797977-ef0bf335-eef0-4a84-9912-491b056a150a.png)
 
 Similarly, we did the same for the year 2018, in which the stock performance for a majority of the dataset did not perform as well as shown in the diagram below. 
+
 ![Stock Performance 2018](https://user-images.githubusercontent.com/107603065/175798095-badcb84a-de6a-4727-afba-2d5cd8906b22.png)
 
 ##### Refractoring
