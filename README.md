@@ -22,6 +22,7 @@ As with refractoring the VBA script, the time elasped for the code to run signif
 Compared to the unrefractored code in which produced slower results as shown below.
 
 ![2017 All Stocks Analysis UnRefractored](https://user-images.githubusercontent.com/107603065/175798277-f461f857-8514-4289-981b-da7a357ccbe9.png)
+
 ![2018 All Stocks Analysis UnRefractored](https://user-images.githubusercontent.com/107603065/175798280-c2603092-08e7-4388-9c26-df9b78341b3a.png)
 
 
