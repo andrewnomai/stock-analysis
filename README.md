@@ -5,6 +5,7 @@ We are helping Steve conduct an analysis on stock data, more specifically green 
 ## Results
 ##### Stock Performance
 As the data shows, a majority of the stocks have performed well in the year 2017 as shown in the diagram below. As represented, we presented the data and using *Interior.Color,* we displayed stocks that are having a negative performance in red and positive performance in green through the end of the year. 
+
 ![Stock Performance 2017](https://user-images.githubusercontent.com/107603065/175797977-ef0bf335-eef0-4a84-9912-491b056a150a.png)
 
 Similarly, we did the same for the year 2018, in which the stock performance for a majority of the dataset did not perform as well as shown in the diagram below. 
